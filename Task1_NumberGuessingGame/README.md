@@ -1,4 +1,4 @@
-# Task 1 - Number Guessing Game
+# Task 2 - Number Guessing Game
 
 ## Objective
 Develop a Java console game where the user guesses a randomly generated number.
